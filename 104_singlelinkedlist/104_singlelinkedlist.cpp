@@ -75,6 +75,10 @@ bool serachNode(int nim, Node* current, Node* previous) {
 	}
 }
 
+bool deleteNode(int nim) {
+	
+}
+
 int main()
 {
     
